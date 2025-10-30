@@ -19,7 +19,7 @@ A automação com CloudFormation nos dá:
 
 ---
 
-## 🛠️ Pilares da Automação no CloudFormation
+##  Pilares da Automação no CloudFormation
 
 Para alcançar a verdadeira automação, eu precisei ir além do básico e usar recursos mais avançados do CloudFormation.
 
